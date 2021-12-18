@@ -7,7 +7,7 @@ from the IotBridge platform to your device via Rest.
 
 1. PlatformIO
 2. Esp32
-3. IotBridge Account & Device
+3. IotBridge Account & Device [Link](https://www.iotbridge.co.za)
 
 ## Getting Started
 
@@ -28,7 +28,7 @@ so that it can be used in your device.
 
 ### The encode function would look like this
 
-```
+```javascript
 function decode(message, metadata) {
    return message.asString;
 }

@@ -15,7 +15,7 @@ from your device to the IotBridge platform via Sigfox using the SFM10R1 module.
 Follow the manufacturer guidelines to enable and register the device with the Sigfox backend.
 Connect the SFM10R1 module and the ESP as shown in the diagram below.
 
-![Schematic](Schematic.png)
+![Schematic](./Schematic.png)
 
 Next is to clone the repository. Once that is complete, open the solution in PlatformIO.
 You can simply build and upload the firmware to the device.
